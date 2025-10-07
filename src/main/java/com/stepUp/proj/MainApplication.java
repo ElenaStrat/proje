@@ -8,6 +8,7 @@ public class MainApplication {
         System.out.println("111111");
         System.out.println("456");
         System.out.println("000");
+        System.out.println("951753");
         System.out.println("Morning!");
     }
 }
